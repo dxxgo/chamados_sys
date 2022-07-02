@@ -192,7 +192,7 @@ export default function New() {
                             <option value='Visita'>Visita técnica</option>
                             <option value='Financeiro'>Financeiro</option>
                         </select>
-
+                        
                         <span className='status-title'>Status</span>
                         <div className='status'>
                             <label>Aberto
