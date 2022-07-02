@@ -187,7 +187,7 @@ export default function New() {
                         }
 
                         <label>Assunto</label>
-                        <select disabled={id ? true : false} value={assunto} onChange={handleChangeSelect}>
+                        <select value={assunto} onChange={handleChangeSelect}>
                             <option value='Suporte'>Suporte</option>
                             <option value='Visita'>Visita técnica</option>
                             <option value='Financeiro'>Financeiro</option>
