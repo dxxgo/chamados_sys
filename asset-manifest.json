@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chamados_sys/static/css/main.4d96b717.css",
+    "main.js": "/chamados_sys/static/js/main.05a472fa.js",
+    "static/media/cover.png": "/chamados_sys/static/media/cover.6a293bc81a9b941e96e1.png",
+    "static/media/logo.png": "/chamados_sys/static/media/logo.1c649f137f0d785bca37.png",
+    "index.html": "/chamados_sys/index.html",
+    "main.4d96b717.css.map": "/chamados_sys/static/css/main.4d96b717.css.map",
+    "main.05a472fa.js.map": "/chamados_sys/static/js/main.05a472fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d96b717.css",
+    "static/js/main.05a472fa.js"
+  ]
+}
